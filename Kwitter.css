@@ -1,0 +1,20 @@
+body
+{
+    background-color: lightblue;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+body
+{
+background-image: linear-gradient(to left top, #f40000da, rgb(255, 136, 0),#f6ff00f0, #48ff00, #00aaff, indigo, violet);
+}
+.header
+{
+    color: rgb(0, 255, 238);font-family: '';font-size: 50px;letter-spacing: 15px;margin-top: 100px;
+}
+.chat
+{
+    color: rgb(0, 200, 255);font-family: '';font-size: 50px;letter-spacing: 15px;margin-top: 100px;
+}

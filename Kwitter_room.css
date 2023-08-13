@@ -1,0 +1,25 @@
+body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #f40000da, rgb(255, 136, 0),#f6ff00f0, #48ff00, #00aaff, indigo, violet);
+}
+
+.header
+{
+	color: rgb(255, 47, 0);font-family:''; font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+.input_div_roompage
+{
+	width: 80%;
+}
